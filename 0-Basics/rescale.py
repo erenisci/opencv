@@ -29,7 +29,7 @@ def rescaleFrame(frame, scale=0.75):
 #     frame_resized = rescaleFrame(frame, scale=0.2)
 #     cv.imshow('Video Resized', frame_resized)
 
-#     if cv.waitKey(20) & 0xFF == ord('d'):
+#     if cv.waitKey(20) & 0xFF == ord('q'):
 #         break
 
 # capture.release()
